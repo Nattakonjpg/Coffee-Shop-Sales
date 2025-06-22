@@ -26,10 +26,3 @@ product_category : Description of the product category
 product_type : Description of the product type
 
 product_detail : Description of the product detail
-
-### Recommended Analysis
-1 - How have Maven Roasters sales trended over time?
-
-2 - Which days of the week tend to be busiest, and why do you think that's the case?
-
-3 - Which products are sold most and least often? Which drive the most revenue for the business?
