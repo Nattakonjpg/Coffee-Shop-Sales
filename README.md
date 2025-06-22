@@ -1,4 +1,4 @@
-# Hi this is my side project for practice about data "Coffee Shop Sales"
+# Hi this is my side project "Coffee Shop Sales"
 Original Data from Kaggle : https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data
 
 ## About Dataset Coffee Shop Sales
