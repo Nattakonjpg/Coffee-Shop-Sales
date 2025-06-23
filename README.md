@@ -26,11 +26,10 @@ product_category : Description of the product category
 product_type : Description of the product type
 
 product_detail : Description of the product detail
-
-<div style="text-align: center;">
   
 ## Question 1 How have Maven Roasters sales trended over time?
 
-</div>
+![Images Question1](./Images/monthly_sales_trend_by_category.png)
 
-![Monthly sales trend: Overall, growth led by data](./Images/monthly_sales_trend_by_category.png)
+### Question 1.1 Maven Roasters' product category sales trends over the past 5 months.
+![Images Question1.1](./Images/monthly_sales_trend_by_product.png)
