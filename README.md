@@ -33,3 +33,5 @@ product_detail : Description of the product detail
 
 ### Question 1.1 Maven Roasters' product category sales trends over the past 5 months.
 ![Images Question1.1](./Images/monthly_sales_trend_by_product.png)
+### Sale trends category else product 
+![Images Question1.1](./Images/Sub plot monthly_sales_trend_by_category_faceted.png)
