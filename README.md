@@ -28,10 +28,16 @@ product_type : Description of the product type
 product_detail : Description of the product detail
   
 ## Question 1 How have Maven Roasters sales trended over time?
-
 ![Images Question1](./Images/monthly_sales_trend_by_category.png)
 
-### Question 1.1 Maven Roasters' product category sales trends over the past 5 months.
-![Images Question1.1](./Images/monthly_sales_trend_by_product.png)
-### Sale trends category else product 
-![Images Question1.1](./Images/Sub_plot_monthly_sales_trend_by_category_faceted.png)
+## Question 2. Which days of the week tend to be busiest, and why do you think that's the case?
+![Images Question1](./Images/total_transaction_quantity_by_day.png)
+
+##Question 3 Which products are sold most and least often?
+![Images Question1](./Images/Compare_Sale_3_location.png)
+
+##Question 3.1 Sub plot graph 
+![Images Question1](./Images/Sub_plot_monthly_sales_trend_by_category_faceted.png)
+
+
+
