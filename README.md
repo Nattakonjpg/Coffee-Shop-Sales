@@ -33,10 +33,10 @@ product_detail : Description of the product detail
 ## Question 2. Which days of the week tend to be busiest, and why do you think that's the case?
 ![Images Question1](./Images/total_transaction_quantity_by_day.png)
 
-##Question 3 Which products are sold most and least often?
+## Question 3 Which products are sold most and least often?
 ![Images Question1](./Images/Compare_Sale_3_location.png)
 
-##Question 3.1 Sub plot graph 
+## Question 3.1 Sub plot graph 
 ![Images Question1](./Images/Sub_plot_monthly_sales_trend_by_category_faceted.png)
 
 
